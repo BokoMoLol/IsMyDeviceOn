@@ -1,1 +1,2 @@
-# IsMyDeviceOn
+# IsMyElectonicDeviceOn
+Yes
