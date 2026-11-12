@@ -1,3 +1,3 @@
-# IsMyElectonicDeviceOn
+# IsMyDeviceOn
 Yes
 https://bokomolol.github.io/IsMyElectronicDeviceOn/
