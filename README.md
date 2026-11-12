@@ -1,3 +1,3 @@
 # IsMyDeviceOn
 Yes
-https://bokomolol.github.io/IsMyElectronicDeviceOn/
+https://bokomolol.github.io/IsMyDeviceOn/
